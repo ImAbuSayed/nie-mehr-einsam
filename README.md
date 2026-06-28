@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/nie-mehr-einsam/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Nie mehr einsam](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nie-mehr-einsam/) |
+| **Get License** | [Obtain a Music License for Nie mehr einsam](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nie-mehr-einsam/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Fahr den Wagen vor, lass die Lichter verblassen, yeah
+> Nur wir zwei im Benz durch die dunkelsten Straßen, yeah
+> Kein Blick zurück, Babe, ich spür' diesen Vibe heut Nacht
+> Guck mich an, Baby, guck mal, was die Liebe aus uns macht
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
